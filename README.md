@@ -1,6 +1,10 @@
 # DEX-dApp
 
+
+<img width="947" alt="DEX SS" src="https://user-images.githubusercontent.com/63971790/229309628-78ccf647-e2c4-43cf-87fb-0f6653e25f55.PNG">
+
 This project's origin is the LearnWeb3 Sophomore course. The title is "Build your own Decentralized Exchange like Uniswap"
+
 
 This is a decentralized exchange project that allows participants to add liquidity to a single asset pair, ETH/Crypto Dev, and swap between them. The project charges a 1% fee on swaps and provides users with Crypto Dev LP tokens when they add liquidity. These LP tokens are proportional to the amount of ETH added to the liquidity pool.
 
@@ -15,6 +19,7 @@ To use this DEX, follow these steps:
 
 - Connect your wallet to the DEX dApp
 - Select the ETH/Crypto Dev asset pair
+
 - Add liquidity by depositing ETH and Crypto Dev tokens
 - Receive Crypto Dev LP tokens proportional to the amount of ETH added
 - Swap between ETH and Crypto Dev by selecting the desired asset and entering the amount
