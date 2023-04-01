@@ -1,6 +1,6 @@
 # DEX-dApp
 
-This project's origin is the LearnWeb3 Sophomore course. The title is "Build a DAO for your NFT holders"
+This project's origin is the LearnWeb3 Sophomore course. The title is "Build your own Decentralized Exchange like Uniswap"
 
 This is a decentralized exchange project that allows participants to add liquidity to a single asset pair, ETH/Crypto Dev, and swap between them. The project charges a 1% fee on swaps and provides users with Crypto Dev LP tokens when they add liquidity. These LP tokens are proportional to the amount of ETH added to the liquidity pool.
 
